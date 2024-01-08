@@ -1,3 +1,7 @@
+More Analysis & Dashboard on tableau public.
+[https://public.tableau.com/app/profile/mohd.imran.shountoo/vizzes](url)
+
+
 This file contains the data analysis of Super Store (USA).
 
 The data was taken from here :[ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](url)
