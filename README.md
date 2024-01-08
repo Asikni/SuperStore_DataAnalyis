@@ -1,5 +1,5 @@
-More Analysis & Dashboard on tableau public.
-[https://public.tableau.com/app/profile/mohd.imran.shountoo/vizzes](url)
+More Analysis & Dashboard on tableau public. [Tableau Public](https://public.tableau.com/app/profile/mohd.imran.shountoo/vizzes)
+
 
 
 This file contains the data analysis of Super Store (USA).
