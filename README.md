@@ -4,7 +4,7 @@ More Analysis & Dashboard on tableau public. [Tableau Public](https://public.tab
 
 This file contains the data analysis of Super Store (USA).
 
-The data was taken from here :[ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](url)
+The data was taken from here :[SuperStore_Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 **About Dataset**
 Context
